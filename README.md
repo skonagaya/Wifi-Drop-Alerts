@@ -1,7 +1,7 @@
 # Wifi Drop Alerts (for Windows)
-Receive sound notifications whenever your wifi adapter decides to take drop in latency. This tool is used to test the stability of your network adapter. Latency is tested against your default gateway (or router). 
+Receive sound notifications whenever your wifi adapter decides to drop response time. This tool is used to test the stability of your network adapter. Latency is tested against your default gateway. 
 
-The script is used to check defective wifi adapters and to tune adapter configurations for stablility. The script does not detect network speed.
+The script is used to check defective wifi adapters and to fine tune adapter configurations for stablility. The script does not detect network speed.
 
 ## Installation
 1. Download and unzip anywhere you want
