@@ -1,8 +1,8 @@
 @echo off
 
 rem Minimum balues the ping latency must be to trigger sounds to be played
-set WARN_THRESHOLD=0
-set SEVERE_THRESHOLD=1
+set WARN_THRESHOLD=10
+set SEVERE_THRESHOLD=100
 set WARNING_SOUND_FILE=warn.wav
 set SEVERE_SOUND_FILE=severe.mp3
 
